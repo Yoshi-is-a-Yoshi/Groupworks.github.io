@@ -1,1 +1,11 @@
+body
+{
+    background-color: blueviolet;
+}
 
+.text
+{
+    text-align:   center;
+    font-size:  larger;
+    color:      white;
+}
