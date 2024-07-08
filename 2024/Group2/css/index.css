@@ -4,9 +4,17 @@ body
     
 }
 
+title
+{
+    text-align:  center;
+    font-size:   largest;
+    
+
+        }
+
 .text
 {
-    text-align:   center;
+    text-align:  left;
     font-size:  larger;
     color:      black;
 }
