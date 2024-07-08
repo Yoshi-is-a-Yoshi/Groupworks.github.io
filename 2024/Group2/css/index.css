@@ -4,15 +4,17 @@ body
     
 }
 
-title
+.title
 {
     font-size:   50;
     
 
         }
 
+
 .text
 {
+    img-align:  center;
     text-align:  left;
     font-size:  20;
     color:      black;
