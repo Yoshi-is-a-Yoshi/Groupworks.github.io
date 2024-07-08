@@ -1,11 +1,11 @@
 body
 {
-    background-color: lightseagreen;
+    background-color: orange;
 }
 
 .text
 {
     text-align:   center;
     font-size:  larger;
-    color:      white;
+    color:      black;
 }
