@@ -47,6 +47,12 @@ body
     padding: 0;
 }
 
+.box_Pos
+{
+    position: absolute;
+    right:    30px;
+}
+
 /*固定します*/
 
  .fixOb
