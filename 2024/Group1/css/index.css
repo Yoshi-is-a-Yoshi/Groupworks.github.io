@@ -9,3 +9,15 @@ body
     font-size:  larger;
     color:      ＃000011;
 }
+
+.normal-box3{
+  margin: 1em 0;
+  padding: 1em;
+  background-color: #ffcc80;
+  box-shadow: 0 3px 4px rgba(0, 0, 0, 0.4);
+}
+
+.normal-box3 p{
+  margin: 0;
+  padding: 0;
+}
