@@ -19,3 +19,14 @@ body
     font-size:  20;
     color:      black;
 }
+
+.normal-box1{
+  margin: 1em 0;
+  padding: 1em;
+  background-color: #b3e5fc;
+}
+
+.normal-box p{
+  margin: 0;
+  padding: 0;
+}
