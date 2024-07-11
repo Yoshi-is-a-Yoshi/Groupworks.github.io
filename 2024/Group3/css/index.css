@@ -49,9 +49,10 @@ body
 
 .box_Pos
 {
-    width:    300px;
+    width:    600px;
     position: absolute;
     right:    30px;
+    top:      300px;
 }
 
 /*固定します*/
