@@ -30,7 +30,7 @@ body
     }
   }
 
-  .box_Tag 
+.box_Tag 
 {
     padding: 0.5em 1em;
     margin: 2em 0;
@@ -43,6 +43,12 @@ body
 {
     margin: 0; 
     padding: 0;
+}
+
+.box_Pos
+{
+    position: absolute;
+    right:    20px;
 }
 
  .fixOb
