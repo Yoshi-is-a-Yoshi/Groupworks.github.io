@@ -10,6 +10,8 @@ body
     color:      white;
 }
 
+/*グラデーションになります*/
+
 .gradient-background {
     background: linear-gradient(282deg,#1754c7,#40fb81,#3edbf8,#cac4c4,#b9ac27);
     background-size: 300% 300%;
@@ -27,3 +29,18 @@ body
       background-position: 0% 50%;
     }
   }
+
+  .box_Tag 
+{
+    padding: 0.5em 1em;
+    margin: 2em 0;
+    color: #232323;
+    background: #fff8e8;
+    border-left: solid 10px #ffc06e;
+}
+
+.box_Tag p
+{
+    margin: 0; 
+    padding: 0;
+}
