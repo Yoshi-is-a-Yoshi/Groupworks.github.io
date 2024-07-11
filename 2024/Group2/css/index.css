@@ -24,10 +24,11 @@ body
   margin: 1em 0;
   padding: 1em;
   background-color: #b3e5fc;
+width: 300px;
 }
 
 .normal-box p{
   margin: 0;
   padding: 0;
- width: 300px;
+ 
 }
