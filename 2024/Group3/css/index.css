@@ -30,7 +30,9 @@ body
     }
   }
 
-.box_Tag 
+/*ボックスを作ります*/
+
+  .box_Tag 
 {
     padding: 0.5em 1em;
     margin: 2em 0;
@@ -45,11 +47,7 @@ body
     padding: 0;
 }
 
-.box_Pos
-{
-    position: absolute;
-    right:    20px;
-}
+/*固定します*/
 
  .fixOb
  {
