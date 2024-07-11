@@ -49,6 +49,7 @@ body
 
 .box_Pos
 {
+    width:    300px;
     position: absolute;
     right:    30px;
 }
