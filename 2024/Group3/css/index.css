@@ -1,6 +1,6 @@
 body
 {
-    background-color:     background-color: rgb(38, 214, 129);
+    background-color: rgb(38, 214, 129);
 }
 
 .text
@@ -9,3 +9,21 @@ body
     font-size:  larger;
     color:      white;
 }
+
+.gradient-background {
+    background: linear-gradient(282deg,#1754c7,#40fb81,#3edbf8,#cac4c4,#b9ac27);
+    background-size: 300% 300%;
+    animation: gradient-animation 15s ease infinite;
+  }
+  
+  @keyframes gradient-animation {
+    0% {
+      background-position: 0% 50%;
+    }
+    50% {
+      background-position: 100% 50%;
+    }
+    100% {
+      background-position: 0% 50%;
+    }
+  }
