@@ -32,3 +32,15 @@ width: 300px;
   padding: 0;
  
 }
+
+
+.normal-box7{
+  margin: 1em 0;
+  padding: 1em;
+  background: radial-gradient(800px, #ffebee, #e57373);
+}
+
+.normal-box7 p{
+  margin: 0;
+  padding: 0;
+}
